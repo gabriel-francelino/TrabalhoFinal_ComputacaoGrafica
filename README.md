@@ -1,6 +1,6 @@
 # TrabalhoFinal_ComputacaoGrafica
 
-Participantes:
+Participantes:<br>
 Gabriel Francelino Nascimento
 Gabriel Piva Pereira
 Brandon Afonso de Souza
